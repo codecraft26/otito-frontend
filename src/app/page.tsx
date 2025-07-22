@@ -262,6 +262,11 @@ export default function Home() {
                 Contact Us
               </a>
             </div>
+            <div className="flex justify-center mb-4">
+              <a href="mailto:otitoofficialnews@gmail.com" className="text-blue-400 hover:text-blue-200 transition-colors text-sm">
+                otitoofficialnews@gmail.com
+              </a>
+            </div>
             <p className="text-gray-500 text-sm">
               © 2025 Otito.in. All rights reserved. | Last updated: July 15, 2025
             </p>
